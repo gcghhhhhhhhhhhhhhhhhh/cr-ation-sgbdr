@@ -1,0 +1,3 @@
+user@id:int,nom:str
+msg@id:int,message:str
+root@id:int,nom:str
